@@ -7,7 +7,7 @@
 ```git clone https://github.com/mirakaratas/kodluyoruzilkrepo.git```
 ## USAGE
  projeyi cloneladıktan sonra Visual Studio Code programında açınız.
-Linux için:
+Linux için :
 ```
 cd kodluyoruzilkrepo
 code . 
